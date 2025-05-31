@@ -24,38 +24,80 @@
 - ⚡ Fun Fact: I break things just to fix them better 😄
 
 ---
-
-<h3>🧠 My Skills</h3>
-
-<!-- HTML -->
-<p><b>HTML</b></p>
-<div style="background-color:#e0e0e0; border-radius:5px; width:100%;"><div style="width:90%; background-color:#f16529; padding:5px; color:white; border-radius:5px;">90%</div></div>
-
-<!-- CSS -->
-<p><b>CSS</b></p>
-<div style="background-color:#e0e0e0; border-radius:5px; width:100%;"><div style="width:70%; background-color:#2965f1; padding:5px; color:white; border-radius:5px;">70%</div></div>
-
-<!-- JavaScript -->
-<p><b>JavaScript</b></p>
-<div style="background-color:#e0e0e0; border-radius:5px; width:100%;"><div style="width:60%; background-color:#f0db4f; padding:5px; color:black; border-radius:5px;">60%</div></div>
-
-<!-- React -->
-<p><b>React</b></p>
-<div style="background-color:#e0e0e0; border-radius:5px; width:100%;"><div style="width:55%; background-color:#61dbfb; padding:5px; color:black; border-radius:5px;">55%</div></div>
-
-<!-- Node.js -->
-<p><b>Node.js</b></p>
-<div style="background-color:#e0e0e0; border-radius:5px; width:100%;"><div style="width:50%; background-color:#68a063; padding:5px; color:white; border-radius:5px;">50%</div></div>
-
-<!-- Java -->
-<p><b>Java</b></p>
-<div style="background-color:#e0e0e0; border-radius:5px; width:100%;"><div style="width:70%; background-color:#f89820; padding:5px; color:white; border-radius:5px;">70%</div></div>
-
-<!-- Python -->
-<p><b>Python</b></p>
-<div style="background-color:#e0e0e0; border-radius:5px; width:100%;"><div style="width:65%; background-color:#3776ab; padding:5px; color:white; border-radius:5px;">65%</div></div>
-
 ---
+
+### 🧠 My Skills (Visual)
+
+<p align="center">
+
+  <!-- HTML -->
+  <svg width="130" height="130">
+    <circle cx="65" cy="65" r="50" stroke="#eee" stroke-width="10" fill="none"/>
+    <circle cx="65" cy="65" r="50" stroke="#f16529" stroke-width="10" fill="none"
+            stroke-dasharray="314" stroke-dashoffset="31"
+            transform="rotate(-90 65 65)" />
+    <text x="65" y="70" text-anchor="middle" font-size="20" fill="#f16529">90%</text>
+  </svg>
+
+  <!-- CSS -->
+  <svg width="130" height="130">
+    <circle cx="65" cy="65" r="50" stroke="#eee" stroke-width="10" fill="none"/>
+    <circle cx="65" cy="65" r="50" stroke="#2965f1" stroke-width="10" fill="none"
+            stroke-dasharray="314" stroke-dashoffset="94"
+            transform="rotate(-90 65 65)" />
+    <text x="65" y="70" text-anchor="middle" font-size="20" fill="#2965f1">70%</text>
+  </svg>
+
+  <!-- JavaScript -->
+  <svg width="130" height="130">
+    <circle cx="65" cy="65" r="50" stroke="#eee" stroke-width="10" fill="none"/>
+    <circle cx="65" cy="65" r="50" stroke="#f0db4f" stroke-width="10" fill="none"
+            stroke-dasharray="314" stroke-dashoffset="126"
+            transform="rotate(-90 65 65)" />
+    <text x="65" y="70" text-anchor="middle" font-size="20" fill="#000">60%</text>
+  </svg>
+
+  <!-- React -->
+  <svg width="130" height="130">
+    <circle cx="65" cy="65" r="50" stroke="#eee" stroke-width="10" fill="none"/>
+    <circle cx="65" cy="65" r="50" stroke="#61dbfb" stroke-width="10" fill="none"
+            stroke-dasharray="314" stroke-dashoffset="141"
+            transform="rotate(-90 65 65)" />
+    <text x="65" y="70" text-anchor="middle" font-size="20" fill="#000">55%</text>
+  </svg>
+
+  <!-- Node.js -->
+  <svg width="130" height="130">
+    <circle cx="65" cy="65" r="50" stroke="#eee" stroke-width="10" fill="none"/>
+    <circle cx="65" cy="65" r="50" stroke="#68a063" stroke-width="10" fill="none"
+            stroke-dasharray="314" stroke-dashoffset="157"
+            transform="rotate(-90 65 65)" />
+    <text x="65" y="70" text-anchor="middle" font-size="20" fill="#fff">50%</text>
+  </svg>
+
+</p>
+
+<p align="center">
+
+  <!-- Java -->
+  <svg width="130" height="130">
+    <circle cx="65" cy="65" r="50" stroke="#eee" stroke-width="10" fill="none"/>
+    <circle cx="65" cy="65" r="50" stroke="#f89820" stroke-width="10" fill="none"
+            stroke-dasharray="314" stroke-dashoffset="94"
+            transform="rotate(-90 65 65)" />
+    <text x="65" y="70" text-anchor="middle" font-size="20" fill="#fff">70%</text>
+  </svg>
+
+  <!-- Python -->
+  <svg width="130" height="130">
+    <circle cx="65" cy="65" r="50" stroke="#eee" stroke-width="10" fill="none"/>
+    <circle cx="65" cy="65" r="50" stroke="#3776ab" stroke-width="10" fill="none"
+            stroke-dasharray="314" stroke-dashoffset="110"
+            transform="rotate(-90 65 65)" />
+    <text x="65" y="70" text-anchor="middle" font-size="20" fill="#fff">65%</text>
+  </svg>
+
+</p>
 
 ### 📈 GitHub Stats
 
