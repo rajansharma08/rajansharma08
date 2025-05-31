@@ -18,67 +18,50 @@
 ### 👨‍💻 About Me
 
 - 🧑‍💻 Final-year BTech Student at Dronacharya Group of Institutions  
-- 🚀 Building full-stack projects with MERN & Flask  
-- 🎯 Preparing for placements (DSA + Dev Skills)  
-- 🌱 Currently learning: **Spring Boot, Blockchain, AI/ML**  
+- 🚀 Building full-stack projects with MERN 
+- 🎯 Preparing for placements (JAVA + DSA)  
+- 🌱 Currently learning: **ExpressJS,SpringBoot**  
 - ⚡ Fun Fact: I break things just to fix them better 😄
 
 ---
 
-### 🧠 My Skills
+<h3>🧠 My Skills</h3>
 
-<table>
-  <tr>
-    <td><b>HTML</b></td>
-    <td>
-      <progress value="90" max="100" style="width: 250px;">90%</progress>
-    </td>
-  </tr>
-  <tr>
-    <td><b>CSS</b></td>
-    <td>
-      <progress value="70" max="100" style="width: 250px;">70%</progress>
-    </td>
-  </tr>
-  <tr>
-    <td><b>JavaScript</b></td>
-    <td>
-      <progress value="60" max="100" style="width: 250px;">60%</progress>
-    </td>
-  </tr>
-  <tr>
-    <td><b>React</b></td>
-    <td>
-      <progress value="55" max="100" style="width: 250px;">55%</progress>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Node.js</b></td>
-    <td>
-      <progress value="50" max="100" style="width: 250px;">50%</progress>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Java</b></td>
-    <td>
-      <progress value="70" max="100" style="width: 250px;">70%</progress>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Python</b></td>
-    <td>
-      <progress value="65" max="100" style="width: 250px;">65%</progress>
-    </td>
-  </tr>
-</table>
+<!-- HTML -->
+<p><b>HTML</b></p>
+<div style="background-color:#e0e0e0; border-radius:5px; width:100%;"><div style="width:90%; background-color:#f16529; padding:5px; color:white; border-radius:5px;">90%</div></div>
+
+<!-- CSS -->
+<p><b>CSS</b></p>
+<div style="background-color:#e0e0e0; border-radius:5px; width:100%;"><div style="width:70%; background-color:#2965f1; padding:5px; color:white; border-radius:5px;">70%</div></div>
+
+<!-- JavaScript -->
+<p><b>JavaScript</b></p>
+<div style="background-color:#e0e0e0; border-radius:5px; width:100%;"><div style="width:60%; background-color:#f0db4f; padding:5px; color:black; border-radius:5px;">60%</div></div>
+
+<!-- React -->
+<p><b>React</b></p>
+<div style="background-color:#e0e0e0; border-radius:5px; width:100%;"><div style="width:55%; background-color:#61dbfb; padding:5px; color:black; border-radius:5px;">55%</div></div>
+
+<!-- Node.js -->
+<p><b>Node.js</b></p>
+<div style="background-color:#e0e0e0; border-radius:5px; width:100%;"><div style="width:50%; background-color:#68a063; padding:5px; color:white; border-radius:5px;">50%</div></div>
+
+<!-- Java -->
+<p><b>Java</b></p>
+<div style="background-color:#e0e0e0; border-radius:5px; width:100%;"><div style="width:70%; background-color:#f89820; padding:5px; color:white; border-radius:5px;">70%</div></div>
+
+<!-- Python -->
+<p><b>Python</b></p>
+<div style="background-color:#e0e0e0; border-radius:5px; width:100%;"><div style="width:65%; background-color:#3776ab; padding:5px; color:white; border-radius:5px;">65%</div></div>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajan-dotdev&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajan-dotdev&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajansharma08&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajansharma08&theme=radical" width="48%" />
 </p>
 
 ---
@@ -86,8 +69,8 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajan-sharma-8b78b6246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:rajan.sharma@example.com"><img src="https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/rajan-sharma-7630561b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:rajansharma0814@example.com"><img src="https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
