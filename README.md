@@ -1,4 +1,4 @@
-👋 Hi, I’m @Rajan Sharma
+👋 Hi, I’m @Rajan Sharma 
 🧑‍💻 Final-year BTech Student at Dronacharya Group of Institutions  
 🚀 Building full-stack projects with MERN 
 🎯 Preparing for placements (JAVA + DSA)  
